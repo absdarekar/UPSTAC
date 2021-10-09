@@ -1,0 +1,14 @@
+# Assignment files
+*.assignment
+
+# IntelliJ
+**/*.iml
+**/.idea/*
+**/coverage/*
+**/out/*
+**/target/*
+
+# yarn
+**/node_modules/*
+**/yarn.lock
+**/package-lock.json
