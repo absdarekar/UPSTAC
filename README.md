@@ -1,1 +1,1 @@
-Unified Platform for Syndromic Mapping, Testing, Analytics and Consultation (UPSTAC) is an application developed in partial fulfilment of the experiential learning module of the Post Graduation Diploma Course in Software Development.
+Unified Platform for Syndromic Mapping, Testing, Analytics and Consultation (UPSTAC) is an application developed in partial fulfilment of the experiential learning module of the postgraduate diploma course in software development.
